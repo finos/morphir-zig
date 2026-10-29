@@ -1,0 +1,10 @@
+# Copyright 2026 FINOS
+# SPDX-License-Identifier: Apache-2.0
+
+schema: html-design
+githubCopilot:
+  cloudAgent: false
+context: |
+  Morphir Zig is a FINOS Morphir project at an early stage.
+  Describe the intended behavior and compatibility with Morphir IR before adding implementations.
+  Follow README.md and CONTRIBUTING.md for repository guidance, GitHub issue tracking and FINOS review.
