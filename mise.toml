@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 [tools]
-"npm:@fission-ai/openspec" = "1.14.3"
+"npm:@fission-ai/openspec" = "1.16.0"
 node = "24.14.1"
 
 [tools."http:moonbit"]
