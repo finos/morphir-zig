@@ -3,7 +3,7 @@
 
 [tools]
 "npm:@fission-ai/openspec" = "1.14.3"
-node = "24.14.1"
+node = "26.13.0"
 
 [tools."http:moonbit"]
 version = "0.10.15+943464bfa"
