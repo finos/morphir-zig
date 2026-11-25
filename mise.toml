@@ -10,7 +10,7 @@ use_versions_host = false
 
 [tools]
 "npm:@fission-ai/openspec" = "2.2.0"
-node = "24.14.1"
+node = "26.13.1"
 
 [tools."github:moonrockz/mission-control"]
 version = "0.1.3"
